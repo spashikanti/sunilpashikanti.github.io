@@ -2,8 +2,9 @@ name: Deploy Hugo site to Pages
 
 on:
   push:
-    branches: ["main"]
-  workflow_dispatch:
+    branches: ["main"]  # This triggers the ACTUAL deployment only after merge
+  pull_request:         # This tests the build; if it fails, don't merge!
+  workflow_dispatch:    # Allows you to run it manually
   
 permissions:
   contents: read
