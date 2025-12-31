@@ -47,6 +47,8 @@ jobs:
         with:
           path: ./public
   deploy:
+  # THIS IS THE FIX: Only deploy if we are on the main branch
+    if: github.ref == 'refs/heads/main'
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
