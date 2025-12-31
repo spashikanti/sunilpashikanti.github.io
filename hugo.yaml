@@ -1,0 +1,23 @@
+baseURL: "https://sunilpashikanti.com/"
+languageCode: en-us
+title: Sunil Pashikanti
+theme: PaperMod
+
+params:
+  env: production
+  description: "Software Architect | Microsoft Power Platform Expert"
+  author: Sunil Pashikanti
+  homeInfoParams:
+    Title: "Hi there \U0001F44B"
+    Content: Welcome to my professional blog. I share insights on Power Platform, Cloud Architecture, and Software Development.
+
+menu:
+  main:
+    - identifier: posts
+      name: Posts
+      url: /posts/
+      weight: 10
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 20
