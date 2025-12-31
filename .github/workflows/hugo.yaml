@@ -23,15 +23,24 @@ jobs:
         with:
           submodules: true # changed from recursive to true
           fetch-depth: 0
+          
       - name: Setup Pages
         uses: actions/configure-pages@v5
+        
+      - name: Download Theme Manually
+        run: |
+          mkdir -p themes/PaperMod
+          curl -L https://github.com/adityatelange/hugo-PaperMod/archive/refs/heads/master.tar.gz | tar -xz -C themes/PaperMod --strip-components=1
+          
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
           hugo-version: 'latest'
           extended: true
+          
       - name: Build with Hugo        
         run: hugo --minify
+        
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
