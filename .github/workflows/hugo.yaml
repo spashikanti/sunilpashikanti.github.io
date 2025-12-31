@@ -2,8 +2,8 @@ name: Deploy Hugo site to Pages
 
 on:
   push:
-    branches: ["main"]  # Triggers whan a PR is merged into main
-  pull_request:         # Optional: This will test-build the PR before you merge it
+    branches: ["main"]  # This triggers the ACTUAL deployment only after merge
+  pull_request:         # This tests the build; if it fails, don't merge!
   workflow_dispatch:    # Allows you to run it manually
   
 permissions:
