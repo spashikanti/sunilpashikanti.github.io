@@ -21,7 +21,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          submodules: recursive
+          submodules: true # changed from recursive to true
           fetch-depth: 0
       - name: Setup Pages
         uses: actions/configure-pages@v5
