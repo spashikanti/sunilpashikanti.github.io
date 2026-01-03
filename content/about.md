@@ -40,8 +40,11 @@ I hold a **Master’s degree in Information Technology** and bring nearly two de
 
 I bridge the gap between business needs and technical execution, delivering solutions that are **scalable**, **secure**, and **maintainable**.
 
----
+## Recognition & Impact
+Beyond my professional roles, I am an active leader in the Microsoft technical ecosystem. 
 
+👉 **[View my full list of Technical Achievements and Community Awards →](/achievements)**
+---
 ### Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/sunil-kumar-pashikanti/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/spashikanti)
