@@ -36,6 +36,8 @@ The **Center of Excellence (CoE) Starter Kit** is the gold standard for visibili
 > **Architect’s Governance Model:** Use **Power Automate** to trigger a **Business Justification Flow** whenever a new production asset is created. This allows for real-time capture of ROI and data sensitivity, ensuring compliance at the point of creation.
 
 ---
+![Zoned Governance Model](/images/TheGovernanceTarget.png)
+
 
 ## Conclusion: Governance as a Strategic Enabler
 Governance should **accelerate innovation**, not block it. By adopting a **Zoned Governance** approach and leveraging **Managed Environments**, architects can empower makers while maintaining the rigorous security standards required by global enterprises.
