@@ -2,8 +2,6 @@ baseURL = "https://sunilpashikanti.github.io/"
 title = "Sunil Pashikanti Blog Site"
 theme = "PaperMod"
 
-googleAnalytics = "G-SFTBJ55RFX"
-
 [privacy]
   [privacy.googleAnalytics]
     anonymizeIP = true
