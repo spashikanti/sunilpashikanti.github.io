@@ -9,3 +9,5 @@ googleAnalytics = "G-SFTBJ55RFX"
     anonymizeIP = true
     respectDoNotTrack = true
     useSessionStorage = true
+
+enableRobotsTXT = true
