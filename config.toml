@@ -1,9 +1,0 @@
-baseURL = "https://sunilpashikanti.com/"
-title = "Sunil Kumar Pashikanti"
-theme = "PaperMod"
-enableRobotsTXT = true
-
-[privacy.googleAnalytics]
-anonymizeIP = true
-respectDoNotTrack = true
-useSessionStorage = true
