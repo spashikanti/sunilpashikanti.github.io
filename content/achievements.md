@@ -28,3 +28,5 @@ Appointed as a **Moderator** for the official Microsoft Power Platform Communiti
 * **Microsoft Certified: Azure Developer Associate (AZ-204)**
 
 ![Super User Badge](/static/images/super%20user%202024%202025.jpg)
+---
+👉 **[Check out my latest technical deep-dives →](/posts)**
