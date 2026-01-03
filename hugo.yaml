@@ -29,14 +29,6 @@ params:
   assets:
     disableHLJS: false
 
-  profileMode:
-    enabled: true
-    title: "Sunil Kumar Pashikanti"
-    subtitle: "Principal Software Architect | Microsoft Community Super User | Microsoft Power Platform Expert | AI & Cloud Architecture"
-    imageUrl: "/images/SunilKumarPashikantiProfilePic.png"
-    imageWidth: 140
-    imageHeight: 140
-
 menu:
   main:
     - identifier: posts
