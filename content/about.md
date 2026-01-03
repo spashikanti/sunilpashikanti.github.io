@@ -13,7 +13,7 @@ I’m passionate about sharing knowledge and helping others succeed. As a **Micr
 **Community Impact at a Glance:**
 * **40 Verified Solutions/108 likes/736 Points:** I actively resolve complex technical challenges for community members worldwide.
 * **Super User Recognition:** One of a select group of experts recognized by Microsoft for technical excellence and community mentorship.
-* **Active Contributor:** You can track my latest solutions and community engagement on my <a href="https://community.powerplatform.com/profile/?userid=8077d18b-7b47-ee11-be6d-6045bdebe084" target="_blank" rel="noopener noreferrer">official Microsoft Community Profile</a>.
+* **Active Contributor:** You can track my latest solutions and community engagement on my [official Microsoft Community Profile](https://community.powerplatform.com/profile/?userid=8077d18b-7b47-ee11-be6d-6045bdebe084).
 
 I specialize in mentoring and solving complex challenges in:
 * **Advanced Workflow Orchestration**: Using Power Automate and Logic Apps for enterprise-scale automation.
@@ -46,10 +46,4 @@ Beyond my professional roles, I am an active leader in the Microsoft technical e
 👉 **[View my full list of Technical Achievements and Community Awards →](/achievements)**
 
 ## Connect with me
-
-<a href="https://www.linkedin.com/in/sunil-kumar-pashikanti/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" alt="LinkedIn">
-</a>
-<a href="https://github.com/spashikanti" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github" alt="GitHub">
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/sunil-kumar-pashikanti/) [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/spashikanti)
