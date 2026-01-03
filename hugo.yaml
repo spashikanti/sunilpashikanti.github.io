@@ -8,8 +8,15 @@ params:
   description: "Software Architect | Microsoft Power Platform Expert"
   author: Sunil Pashikanti
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to my professional blog. I share insights on Power Platform, Cloud Architecture, and Software Development.
+    Title: "Sunil Kumar Pashikanti"
+    Content: Principal Software Architect & Microsoft Community Super User
+    buttons:
+      - name: Read Blog
+        url: /posts
+      - name: About Me
+        url: /about
+      - name: View My Achievements
+        url: /achievements
 
 menu:
   main:
@@ -21,3 +28,7 @@ menu:
       name: About
       url: /about/
       weight: 20
+    - identifier: achievements
+      name: Achievements
+      url: /achievements/
+      weight: 25
