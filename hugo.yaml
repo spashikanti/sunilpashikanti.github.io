@@ -2,7 +2,8 @@ baseURL: "https://sunilpashikanti.com/"
 languageCode: "en-us"
 title: "Sunil Kumar Pashikanti"
 theme: "PaperMod"
-paginate: 5
+pagination:
+  paginate: 5
 enableRobotsTXT: true
 
 privacy.googleAnalytics:
@@ -26,6 +27,14 @@ params:
   disableThemeToggle: false
   hideFooter: false
 
+  profileMode:
+    enabled: true
+    title: "Sunil Kumar Pashikanti"
+    subtitle: "Principal Software Architect | Microsoft Community Super User | Microsoft Power Platform Expert | AI & Cloud Architecture"
+    imageUrl: "/images/SunilKumarPashikantiProfilePic.png"
+    imageWidth: 140
+    imageHeight: 140
+    
   assets:
     disableHLJS: false
 
