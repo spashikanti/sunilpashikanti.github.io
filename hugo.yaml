@@ -32,3 +32,7 @@ menu:
       name: Achievements
       url: /achievements/
       weight: 25
+    - identifier: resources
+      name: Resources
+      url: /resources/
+      weight: 30
