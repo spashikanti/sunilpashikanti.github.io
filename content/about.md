@@ -20,7 +20,7 @@ I specialize in mentoring and solving complex challenges in:
 * **Global Dataverse Architecture**: Designing robust data models for multi-national organizations.
 * **Pro-Code Extension**: Bridging the gap between low-code and professional development using PCF components and Azure services.
 
-## My Mission
+## Mission of This Blog
 This blog is my platform for **giving back**. I share **original architectural patterns, governance strategies, and pro-code best practices** that extend beyond standard documentation. My goal is to empower teams to navigate the Microsoft Cloud with architectural clarity and confidence.
 
 ## Technical Expertise
@@ -44,7 +44,7 @@ I bridge the gap between business needs and technical execution, delivering solu
 Beyond my professional roles, I am an active leader in the Microsoft technical ecosystem. 
 
 👉 **[View my full list of Technical Achievements and Community Awards →](/achievements)**
----
-### Connect with Me
+
+## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/sunil-kumar-pashikanti/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/spashikanti)
