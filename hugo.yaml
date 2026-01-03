@@ -15,7 +15,7 @@ params:
         url: /posts
       - name: About Me
         url: /about
-      - name: My Achievements
+      - name: View My Achievements
         url: /achievements
 
 menu:
