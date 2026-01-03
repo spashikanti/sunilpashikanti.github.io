@@ -1,28 +1,28 @@
-
 baseURL: "https://sunilpashikanti.com/"
-languageCode: en-us
-title: Sunil Kumar Pashikanti
-theme: PaperMod
+languageCode: "en-us"
+title: "Sunil Kumar Pashikanti"
+theme: "PaperMod"
 paginate: 5
+enableRobotsTXT: true
+
+privacy.googleAnalytics:
+  anonymizeIP: true
+  respectDoNotTrack: true
+  useSessionStorage: true
 
 params:
   env: production
   description: "Principal Software Architect | Microsoft Community Super User | Microsoft Power Platform Expert | AI & Cloud Architecture"
   author: "Sunil Kumar Pashikanti"
   homeTitle: "Sunil Kumar Pashikanti"
-  homeSubtitle: >
-    Principal Software Architect specializing in
-    enterprise Power Platform governance,
-    AI-driven solutions, and scalable cloud architecture.
-
+  homeSubtitle: "Principal Software Architect specializing in enterprise Power Platform governance, AI-driven solutions, and scalable cloud architecture."
   mainSections:
     - posts
 
   showReadingTime: true
   showShareButtons: true
   showPostNavLinks: true
-
-  defaultTheme: auto
+  defaultTheme: "auto"
   disableThemeToggle: false
   hideFooter: false
 
