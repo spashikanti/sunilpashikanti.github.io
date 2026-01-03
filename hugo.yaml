@@ -1,3 +1,4 @@
+
 baseURL: "https://sunilpashikanti.com/"
 languageCode: en-us
 title: Sunil Kumar Pashikanti
@@ -7,7 +8,7 @@ paginate: 5
 params:
   env: production
   description: "Principal Software Architect | Microsoft Community Super User | Microsoft Power Platform Expert | AI & Cloud Architecture"
-  author: Sunil Kumar Pashikanti
+  author: "Sunil Kumar Pashikanti"
   homeTitle: "Sunil Kumar Pashikanti"
   homeSubtitle: >
     Principal Software Architect specializing in
@@ -16,21 +17,21 @@ params:
 
   mainSections:
     - posts
-  
+
   showReadingTime: true
   showShareButtons: true
   showPostNavLinks: true
-  
+
   defaultTheme: auto
   disableThemeToggle: false
   hideFooter: false
-  
+
   assets:
     disableHLJS: false
 
   profileMode:
     enabled: true
-    title: Sunil Kumar Pashikanti
+    title: "Sunil Kumar Pashikanti"
     subtitle: "Principal Software Architect | Microsoft Community Super User | Microsoft Power Platform Expert | AI & Cloud Architecture"
     imageUrl: "/images/SunilKumarPashikantiProfilePic.png"
     imageWidth: 140
