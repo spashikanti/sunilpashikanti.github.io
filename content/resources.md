@@ -11,12 +11,12 @@ These resources are designed to help IT leaders and architects implement robust 
 ### 🏆 Enterprise Governance Checklist (2026 Edition)
 A comprehensive 25-point checklist covering Environment Strategy, DLP policies, and CoE automation milestones.
 * **Format:** PDF
-* **[Download Checklist](/resources/Power-Platform-Governance-Checklist.pdf)**
+* **[Download Checklist](/resources/Enterprise%20Power%20Platform%20Governance%20-%20The%2025-Point%20Checklist.pdf)**
 
 ### 📊 Zoned Governance Diagram Template
 The high-resolution version of the Pashikanti Zoned Governance Model. Use this for your internal stakeholder presentations.
 * **Format:** PNG / PDF
-* **[Download High-Res Diagram](/resources/governance-zones.png)**
+* **[Download High-Res Diagram](/images/TheGovernanceTarget.png)**
 
 ---
 
