@@ -65,3 +65,9 @@ Building for the Power Platform in 2026 requires more than just functional logic
 * **Source Code:** [GitHub - SunilP-PowerApps-Shimmer](https://github.com/spashikanti/SunilP-PowerApps-Shimmer)
 * **Community:** Find this control on [PCF Gallery](https://pcf.gallery/) (Submission in progress)
 * **Documentation:** [Full Installation Guide](https://github.com/spashikanti/SunilP-PowerApps-Shimmer/blob/main/README.md)
+
+---
+### Let's Connect
+How is your organization handling the shift to Managed Environments in 2026? I would love to hear your thoughts in the [Power Platform Community](https://community.powerplatform.com/profile/?userid=8077d18b-7b47-ee11-be6d-6045bdebe084) or on [LinkedIn](https://www.linkedin.com/in/sunil-kumar-pashikanti/).
+
+{{< author-bio >}}
