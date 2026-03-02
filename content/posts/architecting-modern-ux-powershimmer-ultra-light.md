@@ -1,8 +1,8 @@
 ---
 title: "Architecting Modern UX: PowerShimmer Ultra-Light for Power Apps"
 date: 2026-03-01
-tags: ["Power Platform", "PCF", "UI/UX", "Architecture"]
-categories: ["Pro-Dev"]
+tags: ["Power Platform", "PCF", "UI/UX", "Architecture", "Performance"]
+categories: ["Pro-Dev", "Technical Architecture"]
 author: "Sunil Kumar Pashikanti"
 description: "A deep dive into the architectural considerations of building high-performance, low-latency Shimmer loading effects using the Power Apps Control Framework."
 ---
@@ -16,45 +16,43 @@ Standard loading indicators in Power Apps (spinners or progress bars) often crea
 
 Architecture-wise, many existing Shimmer components are either:
 1. **Too Heavy:** Bundling massive CSS libraries that increase the solution size.
-2. **Inflexible:** Hard-coded to specific layouts (Article, List, or Persona).
-3. **High Latency:** Requiring multiple properties to be calculated on the Canvas side before rendering.
+2. **Inflexible:** Hard-coded to specific layouts.
+3. **High Latency:** Requiring complex calculations on the Canvas side before rendering.
 
-## Architecture of PowerShimmer Ultra-Light
+## Architecture & Technical Specification
 
-The goal was simple: **Maximum performance, minimum footprint.** 
-### 1. The Core Engine: CSS-in-TS
-Unlike standard controls that rely on external stylesheets, PowerShimmer utilizes a **Hardware-Accelerated CSS Linear Gradient** engine. By leveraging `requestAnimationFrame` and CSS variables, we offload the animation rendering to the GPU, ensuring the Shimmer remains smooth (60fps) even when the main JS thread is busy fetching Dataverse records.
+The core philosophy of **PowerShimmer Ultra-Light** is maximum performance with a minimum footprint. 
 
-### 2. Component Lifecycle
-The architecture follows the standard PCF lifecycle but with a specific focus on the `updateView` method:
+### 1. Hardware-Accelerated Rendering
+Unlike controls that rely on heavy React-based UI libraries, PowerShimmer utilizes a **Hardware-Accelerated CSS Linear Gradient** engine. By leveraging CSS variables, we offload the animation rendering to the GPU, ensuring the Shimmer remains smooth (60fps) even when the main JS thread is busy fetching Dataverse records.
 
-* **init:** Initializes the container and creates the SVG-based skeleton masks.
-* **updateView:** Dynamically calculates dimensions based on the parent container. This ensures that the Shimmer is "Ultra-Light"—it doesn't need its own sizing logic; it inherits and adapts.
-* **destroy:** Cleanly unmounts DOM elements to prevent memory leaks in complex, multi-screen apps.
+### 2. Control Properties & Customization
+To align with Enterprise Design Systems, the control is fully configurable through the following parameters:
 
-### 3. Design Tokens & Customization
-To align with Enterprise Design Systems, the control exposes several architectural "hooks":
-* **Base Color & Highlight Color:** Allows alignment with corporate branding.
-* **Speed Control:** Adjustable animation duration to match the "velocity" of your application's UI.
-* **Border Radius:** Supports everything from Sharp (Industrial) to Rounded (Modern/Fluent) styles.
+| Property | Type | Default | Description |
+| :--- | :--- | :--- | :--- |
+| **Base Color** | Color | `#F3F2F1` | The background color of the shimmer skeleton. |
+| **Highlight Color** | Color | `#E1DFDD` | The color of the moving "glint" effect. |
+| **Animation Speed** | Decimal | `1.5` | Controls the velocity of the shimmer (in seconds). |
+| **Border Radius** | Whole Number | `4` | Adjusts the roundness of the shimmer edges. |
 
-## Implementation: The "Skeleton Screen" Strategy
+### 3. Implementation Logic: The "Layered" Strategy
+From an architectural standpoint, the most efficient implementation is a **Layered UI Strategy**. 
 
-From an architectural standpoint, the best way to implement this is through a **Layered UI Strategy**:
+**The Setup:**
+1. Place the **PowerShimmer** control exactly where your data (Gallery/Form) will appear.
+2. Set the `Visible` property of the PowerShimmer to your loading variable (e.g., `locIsLoading`).
+3. Set the `Visible` property of your Data Gallery to `!locIsLoading`.
 
-```text
-Layer 3: Data (Gallery/Form - Visible when Loaded)
-Layer 2: Shimmer (PowerShimmer - Visible when Loading)
-Layer 1: Background (Static Screen)
-```
-By toggling the `Visible` property of the **PowerShimmer** control based on the `OnSelect` or `OnVisible` variables (e.g., `locIsLoading`), we provide immediate visual feedback.
+This ensures that the user sees the "Skeleton" layout the millisecond the screen opens, providing instant visual feedback while the `OnVisible` formulas execute.
 
 ## Why "Ultra-Light"?
 
-The name isn't just marketing. By stripping away dependencies on Fluent UI React bundles and using vanilla TypeScript logic for the rendering container, the bundle size is reduced by **~40%** compared to standard community Shimmer controls. This leads to:
+The name isn't just marketing; it's a technical distinction. By stripping away dependencies on Fluent UI React bundles and using vanilla TypeScript logic for the rendering container, the bundle size is significantly optimized.
 
-* **Faster App Boot Times:** Especially on mobile devices with limited bandwidth.
-* **Lower Memory Usage:** Vital for Power Apps running within Teams or mobile wrappers.
+* **~40% Reduction in Bundle Size:** Compared to standard community Shimmer controls.
+* **Faster App Boot Times:** Critical for mobile devices with limited bandwidth.
+* **Lower Memory Footprint:** Vital for Power Apps running within Teams or mobile wrappers where resources are shared.
 
 ## Conclusion
 
@@ -62,7 +60,8 @@ Building for the Power Platform in 2026 requires more than just functional logic
 
 ---
 
-## Resources
+### Resources & Links
 
 * **Source Code:** [GitHub - SunilP-PowerApps-Shimmer](https://github.com/spashikanti/SunilP-PowerApps-Shimmer)
-* **Documentation:** [PCF Gallery Integration](#)
+* **Community:** Find this control on [PCF Gallery](https://pcf.gallery/) (Submission in progress)
+* **Documentation:** [Full Installation Guide](https://github.com/spashikanti/SunilP-PowerApps-Shimmer/blob/main/README.md)
