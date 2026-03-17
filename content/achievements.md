@@ -75,6 +75,8 @@ My certifications reflect my continuous commitment to mastering Microsoft techno
 - **Microsoft Certified: [Power Platform App Maker Associate](https://learn.microsoft.com/api/credentials/share/en-us/SunilKumarPashikanti/4419DB250CD22D15?sharingId=C52D54C9515E20EF)** (Earned Aug 2022 – Expired)
 - **Microsoft Certified: [Azure Developer Associate (AZ‑204)](https://learn.microsoft.com/api/credentials/share/en-us/SunilKumarPashikanti/1C77FFDF335C805?sharingId=C52D54C9515E20EF)**
 - **Microsoft Certified: [Azure Administrator Associate](https://learn.microsoft.com/api/credentials/share/en-us/SunilKumarPashikanti/48FC29069FC012FF?sharingId=C52D54C9515E20EF)** (Issued Feb 2019)
+- **Microsoft Certified Trainer (MCT)** — 2021–2022, 2022–2023  
+Recognized for delivering high‑quality technical training and mentoring developers in Microsoft technologies.
 - **Exam 488: Developing Microsoft SharePoint Server 2013 Core Solutions** (SharePoint Certification)
 - **[Professional Scrum Master (PSM I)](https://www.credly.com/badges/dd7dc28c-7bc2-4aac-bce6-f2931265a734/public_url)** (Scrum.org)
 - **[Canvas Apps Certification](https://learn.microsoft.com/api/credentials/share/en-us/SunilKumarPashikanti/619D69CC719C0CE1?sharingId=C52D54C9515E20EF) – Create and Manage Canvas Apps with Power Apps** (Issued Dec 2023)
