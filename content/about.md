@@ -5,45 +5,50 @@ url: "/about"
 ---
 
 ## Professional Profile
-I am a **Principal Software Architect** with over **18 years of experience** architecting and delivering enterprise-grade solutions. My expertise lies at the intersection of the **Microsoft Power Platform**, **Azure**, and **SharePoint**, where I focus on building scalable, secure ecosystems that solve high-stakes business challenges.
+I am a **Principal Software Architect** with over **18 years of experience** architecting and delivering enterprise‑grade solutions across the Microsoft ecosystem. My expertise lies at the intersection of the **Microsoft Power Platform**, **Azure**, and **Microsoft 365/SharePoint**, where I focus on building scalable, secure ecosystems that solve high-stakes business challenges.
 
-## Community Leadership & Super User Recognition
-I’m passionate about sharing knowledge and helping others succeed. As a **Microsoft Power Platform Community Super User**, I have been recognized for my consistent contributions in providing architectural guidance and high-quality solutions to the global developer community.
+I specialize in bridging the gap between **pro‑code engineering** and **low‑code innovation**, enabling organizations to adopt the Power Platform with strong governance, architectural clarity, and future‑ready design patterns.
+
+## Community Leadership & Recognition
+As a **Microsoft Power Platform Community Super User**, I am recognized for helping makers, developers, and architects across the world solve complex technical challenges. My contributions span architectural guidance, Power Apps extensibility, governance practices, and advanced workflow orchestration.
 
 **Community Impact at a Glance:**
-* **40 Verified Solutions/108 likes/736 Points:** I actively resolve complex technical challenges for community members worldwide.
-* **Super User Recognition:** One of a select group of experts recognized by Microsoft for technical excellence and community mentorship.
-* **Active Contributor:** You can track my latest solutions and community engagement on my [official Microsoft Community Profile](https://community.powerplatform.com/profile/?userid=8077d18b-7b47-ee11-be6d-6045bdebe084).
+* **50+ Verified Solutions, 100+ community likes, and 1000+ reputation Points** contributed across Power Platform forums.
+* Selected as a **Super User**, a recognition given to a small group of experts for technical excellence, mentorship, and positive impact in the Microsoft community.
+* Active, consistent contributor, view my engagement on my [official Microsoft Community Profile](https://community.powerplatform.com/profile/?userid=8077d18b-7b47-ee11-be6d-6045bdebe084).
 
-I specialize in mentoring and solving complex challenges in:
-* **Advanced Workflow Orchestration**: Using Power Automate and Logic Apps for enterprise-scale automation.
-* **Global Dataverse Architecture**: Designing robust data models for multi-national organizations.
-* **Pro-Code Extension**: Bridging the gap between low-code and professional development using PCF components and Azure services.
+My mission is simple: **Empower the global Microsoft community by combining deep engineering experience with practical, real‑world Power Platform insights**.
+
+## Core Specializations
+* **Advanced Workflow Orchestration**: Using Power Automate, Logic Apps, and cloud-native patterns to deliver enterprise-scale automation.
+* **Global Dataverse Architecture**: Designing multi‑region, secure, high‑fidelity data models for mission‑critical business applications.
+* **Pro-Code Extensions for Power Apps**: Extending low‑code apps using PCF components, Azure services, and custom connectors, enabling fusion teams to build beyond out‑of‑box capabilities.
 
 ## Mission of This Blog
-This blog is my platform for **giving back**. I share **original architectural patterns, governance strategies, and pro-code best practices** that extend beyond standard documentation. My goal is to empower teams to navigate the Microsoft Cloud with architectural clarity and confidence.
+This blog is my platform to give back to the community.
+I publish **original architectural patterns, governance frameworks, ALM best practices,** and **pro‑code extensions** that go beyond basic tutorials and documentation. My goal is to help developers, makers, and enterprise teams navigate the Microsoft Cloud with **confidence, sustainability, and architectural discipline**.
 
 ## Technical Expertise
 * **Power Platform**: Power Apps (Canvas & Model-driven), Power Automate, Power BI, ALM & CI/CD with Azure DevOps.
-* **Microsoft 365 & SharePoint**: SharePoint Online, SPFx, O365 API, PowerShell scripting.
-* **Azure Cloud**: Functions, Logic Apps, Web Apps, Web Jobs, Azure SQL, Event Hub.
-* **Web Development**: C#, ASP.NET Core, MVC, Web API, Angular, React, Bootstrap.
+* **Microsoft 365 & SharePoint**: SharePoint Online, SPFx, O365 API, PowerShell automation.
+* **Azure Cloud**: Azure Functions, Logic Apps, Web Apps, Web Jobs, Azure SQL, Event Hub.
+* **Enterprise Web Development**: C#, ASP.NET Core, MVC, Web API, Angular, React, Bootstrap.
 * **DevOps & Tools**: Git/TFS, Visual Studio, ShareGate, Metalogix, UiPath (RPA).
 
 ## Academic & Professional Foundations
-I hold a **Master’s degree in Information Technology** and bring nearly two decades of hands-on experience in **Microsoft technologies**. My expertise spans **Power Platform**, **Azure**, and **SharePoint** ecosystems, with a career focused on:
+I hold a **Master’s degree in Information Technology** and have spent nearly two decades designing enterprise solutions across:
 
 - **Enterprise Content Management**
-- **Portals and Collaboration**
+- **Collaboration Portals**
 - **Workflow Automation**
-- **Data-driven Solutions**
+- **Data-driven Business Applications**
 
-I bridge the gap between business needs and technical execution, delivering solutions that are **scalable**, **secure**, and **maintainable**.
+I bridge the gap between business expectations and technical execution, delivering solutions that are **robust**, **scalable**, **secure**, and **maintainable**.
 
 ## Recognition & Impact
-Beyond my professional roles, I am an active leader in the Microsoft technical ecosystem. 
+Beyond my professional work, I am an active leader in the Microsoft technical ecosystem, sharing knowledge, contributing open-source solutions, mentoring developers, and supporting global community growth. 
 
-👉 **[View my full list of Technical Achievements and Community Awards →](/achievements)**
+👉 **[Explore my full list of technical achievements, certifications, PCF contributions, and community awards on my Achievements page →](/achievements)**
 
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/sunil-kumar-pashikanti/) [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/spashikanti)
