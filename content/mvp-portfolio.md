@@ -1,11 +1,10 @@
 ---
-title: "Microsoft MVP Nomination Portfolio"
+title: "🌟 Microsoft MVP Nomination Portfolio"
 layout: "page"
 url: "/mvp-portfolio"
 summary: "A complete record of my community impact, open-source projects, contributions, and leadership across the global Microsoft ecosystem."
 ---
 
-# 🌟 Microsoft MVP Nomination Portfolio
 This page highlights my **community impact**, **open-source contributions**, **technical leadership**, and **global engagement** within the Microsoft Power Platform ecosystem. It is designed to support my Microsoft MVP nomination and provide a transparent record of my contributions.
 
 ---
