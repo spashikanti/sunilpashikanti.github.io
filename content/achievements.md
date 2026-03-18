@@ -1,11 +1,9 @@
 ---
-title: "Technical Achievements & Community Recognition"
+title: "🏆 Technical Achievements & Community Recognition"
 layout: "page"
 url: "/achievements"
 summary: "Professional recognitions and technical leadership milestones within the Microsoft Power Platform ecosystem."
 ---
-
-# 🏆 Technical Achievements & Community Recognition
 
 My career and community journey reflect a commitment to advancing the Microsoft Power Platform ecosystem through open-source innovation, technical mentorship, enterprise architecture, and public knowledge-sharing. This page highlights my key recognitions, impact metrics, and professional achievements.
 
