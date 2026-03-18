@@ -43,7 +43,7 @@ menu:
     - identifier: posts
       name: Posts
       url: /posts/
-      weight: 10
+      weight: 20
     - identifier: about
       name: About
       url: /about/
@@ -51,8 +51,12 @@ menu:
     - identifier: achievements
       name: Achievements
       url: /achievements/
-      weight: 25
+      weight: 20
     - identifier: resources
       name: Resources
       url: /resources/
-      weight: 30
+      weight: 20
+    - identifier: mvp-portfolio
+      name: MVP Portfolio
+      url: /mvp-portfolio/
+      weight: 20
