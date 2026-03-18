@@ -1,11 +1,10 @@
 ---
-title: "Architectural Resources & Downloads"
+title: "📁 Architectural Resources & Downloads"
 layout: "page"
 url: "/resources"
 summary: "Curated architectural assets, governance frameworks, PCF components, and open-source tools created for the global Power Platform community."
 ---
 
-# 📁 Architectural Resources & Downloads  
 A curated collection of my most impactful resources for Power Platform architects, fusion teams, and enterprise solution designers.  
 These assets are widely used by community members to implement scalable architecture, establish governance standards, and extend Power Apps with pro-code components.
 
