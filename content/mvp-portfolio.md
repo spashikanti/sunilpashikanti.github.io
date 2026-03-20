@@ -15,6 +15,15 @@ I actively contribute solutions, patterns, PCF components, and technical trainin
 
 ---
 
+# 🌟 Impact Highlights (At a Glance)
+- 50+ accepted solutions helping community members resolve complex issues  
+- Published open-source PCF component used by global makers  
+- Created enterprise governance frameworks adopted by organizations  
+- Delivered training as former MCT  
+- Provided architectural guidance across Power Apps, Automate & Dataverse
+
+---
+
 # 🏆 Microsoft Community Recognitions
 
 ## 🥇 **Microsoft Power Platform Super User**
@@ -55,14 +64,28 @@ A high-performance skeleton loader for Power Apps UX, published publicly in the 
 - **Technical Documentation:** [Published on my blog](https://sunilpashikanti.blogspot.com/2026/03/powershimmer-pcf-powerapps-ux-component.html) (March 2026)
 
 ## 🛠️ Developer Utilities (Open Source)
-Examples include:
-- [Excel Merger Utility](https://github.com/spashikanti/SunilP-ExcelMergerToMaster)  
-- Workflow helpers  
-- ALM/DevOps scripts  
-- Shimmer UX extensions  
 
-👉 GitHub Profile:  
-https://github.com/spashikanti  
+I actively publish open-source utilities that support Power Platform, Excel automation, and enterprise solution development.
+
+### ✔️ Published Tool
+- **[Excel Merger Utility](https://github.com/spashikanti/SunilP-ExcelMergerToMaster)**  
+  A lightweight tool to automatically merge multiple Excel files into a unified master dataset.  
+  Built to support analytics workflows and enterprise data consolidation needs.
+
+👉 Full GitHub profile:  
+https://github.com/spashikanti
+
+---
+
+## 🧭 Upcoming Open-Source Contributions *(Planned Work — Not Included in MVP Evaluation)*
+
+These items represent ongoing and future community contributions:
+
+- Workflow helper utilities  
+- ALM/DevOps automation scripts  
+- Shimmer UX extension pack  
+
+These are currently under development and will be published publicly on GitHub upon completion.
 
 ---
 
