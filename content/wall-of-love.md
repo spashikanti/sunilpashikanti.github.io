@@ -11,6 +11,12 @@ This page is a dedicated archive of **verbatim feedback** from the Microsoft Pow
 
 ---
 
+> "Hi @Sunil Kumar Pashikanti , thank you so much for guiding me step by step, It helps me to build a flow."
+> 
+> **CU10030357-0** | *Mar 2026* | [View Thread](https://community.powerplatform.com/forums/thread/details/?threadid=f67a0c4b-e31c-f111-8342-0022482aa3a2)
+
+---
+
 > "your solution was absolutely stunning- what a great work you did, I really appreciate all your help- especially the detailed screenshots. It really helped me and our organization by saving a lot of time."
 > 
 > **Sayan** | *Mar 2026* | [View Thread](https://community.powerplatform.com/forums/thread/details/?threadid=bf7b1116-bd1c-f111-8342-7ced8dcf6482)
