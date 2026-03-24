@@ -21,7 +21,7 @@ A comprehensive **25‑point governance model** covering:
 - CoE Starter Kit integration milestones  
 
 **Format:** PDF  
-➡️ **[Download Checklist](/resources/Enterprise%20Power%20Platform%20Governance%20-%20The%2025-Point%20Checklist.pdf)**
+➡️ **[Download Checklist](https://github.com/spashikanti/sunilpashikanti.github.io/releases/download/v1.0.0/SunilP_PP_Governance_Checklist_2026.pdf)**
 
 ---
 
@@ -30,7 +30,29 @@ The **Pashikanti Zoned Governance Model** — a modern governance architecture f
 Ideal for IT leaders, architects, and COE teams.
 
 **Format:** PNG / PDF  
-➡️ **[Download High-Res Diagram](/images/TheGovernanceTarget.png)**
+➡️ **[Download High-Res Diagram](https://github.com/spashikanti/sunilpashikanti.github.io/releases/download/v1.0.0/SunilP_Zoned_Governance_Model.png)**
+
+---
+
+# 🤖 RPA & Automation Architecture (Power Automate Desktop)
+
+## 📘 UI Selector Stability Playbook (2026 Edition)
+A developer-first "Playbook" focused on building resilient, production-grade bots. Move beyond brittle recordings to architected automation.
+- Deep dive into **Contains (~=)** and **Starts With (^=)** operators
+- 10 Field Rules for long-term bot stability
+- Handling Electron, Web-wrapped, and dynamic UI apps
+- Multi-selector fallback strategies
+
+**Format:** PDF  
+➡️ **[Download Playbook](https://github.com/spashikanti/sunilpashikanti.github.io/releases/download/v1.0.0/SunilP_PAD_Selector_Playbook_2026.pdf)**
+
+---
+
+## 🏷️ UI Selector Cheat Sheet (Quick Reference)
+A high-resolution visual reference card for your second monitor. Quickly compare "Brittle vs. Resilient" patterns and validate your selector syntax at a glance.
+
+**Format:** PNG / High-Res Image  
+➡️ **[Download Cheat Sheet](https://github.com/spashikanti/sunilpashikanti.github.io/releases/download/v1.0.0/SunilP_PAD_Selector_CheatSheet_2026.png)**
 
 ---
 
@@ -43,8 +65,7 @@ These controls are also listed on the **[PCF Gallery](https://pcf.gallery/author
 A **high-performance skeleton loading component** designed to improve UX and perceived performance in Canvas & Model‑Driven Apps.  
 Documentation and details published in [my technical blog](https://sunilpashikanti.blogspot.com/2026/03/powershimmer-pcf-powerapps-ux-component.html).
 
-**Resources:**  
-- **PCF Gallery Listing:** https://pcf.gallery/powershimmer-ultra-light  
+**Resources:** - **PCF Gallery Listing:** https://pcf.gallery/powershimmer-ultra-light  
 - **Source Code:** https://github.com/spashikanti/SunilP-PowerApps-Shimmer  
 - **Documentation & Patterns:** [Blog post](https://sunilpashikanti.blogspot.com/2026/03/powershimmer-pcf-powerapps-ux-component.html) included under Fluent UI & PowerApps category.
 
@@ -54,8 +75,7 @@ Reusable developer utilities published for automation and data engineering scena
 - Power Apps helper scripts  
 - Logic Apps / Power Automate developer helpers  
 
-➡️ **View my open-source repositories:**  
-https://github.com/spashikanti
+➡️ **View my open-source repositories:** https://github.com/spashikanti
 
 ---
 
@@ -67,8 +87,7 @@ Short-form and long-form videos covering:
 - Dataverse design principles  
 - Architecture insights for enterprise-scale apps  
 
-➡️ **Watch on YouTube:**  
-https://www.youtube.com/@SunilPashikanti  
+➡️ **Watch on YouTube:** https://www.youtube.com/@SunilPashikanti  
 
 ---
 
