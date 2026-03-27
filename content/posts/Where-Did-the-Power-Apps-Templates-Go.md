@@ -16,9 +16,9 @@ As of March 2026, Microsoft has pivoted away from standalone "starter apps" in f
 
 ## 1. The "Create" Screen (The New Sidebar)
 Microsoft hasn't deleted the templates; they’ve simply categorized them under the **Create** menu. 
-* Navigate to the **Create** tab on the left navigation bar.
-* Look for the row labeled **"Start from template."**
-* Click **"See all templates"** at the end of that row.
+* Navigate to the **Apps** tab on the left navigation bar.
+* Look for the '+ New app' --> **"Start with an app template"**
+* View **"Other app templates"** at the end.
 
 **Note for Architects:** Many of these now require a **Dataverse** environment. If you are in a "Default" environment without a database, some high-end templates (like Invoice Approval) may not appear.
 
