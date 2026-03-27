@@ -67,3 +67,9 @@ In modern Software Engineering, **Separation of Concerns** is a fundamental law.
 
 ---
 *Found this helpful? I’d appreciate it if you could share this with your team or mark this as a helpful resource in the Power Platform community!*
+
+---
+### Let's Connect
+How is your organization handling the shift to Managed Environments in 2026? I would love to hear your thoughts in the [Power Platform Community](https://community.powerplatform.com/profile/?userid=8077d18b-7b47-ee11-be6d-6045bdebe084) or on [LinkedIn](https://www.linkedin.com/in/sunil-kumar-pashikanti/).
+
+{{< author-bio >}}
