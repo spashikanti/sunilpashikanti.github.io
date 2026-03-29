@@ -1,5 +1,5 @@
 ---
-title: "🌟 Microsoft MVP Nomination Portfolio | Sunil Kumar Pashikanti"
+title: "🌟 Principal Solutions Architect | Sunil Kumar Pashikanti"
 layout: "page"
 url: "/mvp-portfolio"
 summary: "Principal Architect & Microsoft Power Platform Super User: Open-source leadership, enterprise governance, and global community impact."
