@@ -74,6 +74,10 @@ Participated in the global AI innovation event at Power Platform Conference (PPC
   - [Agent Hack participant](https://www.credly.com/badges/ace83ef9-85cf-4c7d-a649-377aed17df0f/public_url)
   - [Guinness World Record hack attempt](https://www.credly.com/badges/1fbaf740-503a-4b04-924a-8f9d7c9937ee/public_url)
 
+## 4.3 🏆 Top 10 Community Leader (March 2026)
+Formally recognized by the Microsoft Community Team as a Top 10 Global Leader for high-volume, high-quality contributions, including answering complex technical queries and providing verified solutions.
+
+- Official Announcement: [Congratulations to the March 2026 Top 10 Community Leaders!](https://community.powerplatform.com/blogs/post/?postid=95601100-f72e-f111-88b4-7ced8dcd2411)
 ---
 
 # 5. 🧩 Open-Source Leadership (PCF Components & Tools)
