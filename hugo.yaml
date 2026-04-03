@@ -58,7 +58,7 @@ menu:
       weight: 13
     - identifier: mvp-portfolio
       name: Portfolio
-      url: /mvp-portfolio/
+      url: /portfolio/
       weight: 14
     - identifier: wall-of-love
       name: Wall of Love
