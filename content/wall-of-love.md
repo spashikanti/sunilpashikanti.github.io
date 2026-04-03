@@ -16,7 +16,7 @@ This page is a dedicated archive of **verbatim feedback** from the Microsoft Pow
 > "We love our Power Platform Community stars! Each month we honor our top contributors—community members who are the most active, answering questions and providing solutions... and sharing their expertise." 
 > — **Bret Fraser, Community Manager, Microsoft**
 
-[![Sunil Pashikanti - Top 10 Leaderboard](link-to-your-cropped-image-2.png)](https://community.powerplatform.com/blogs/post/?postid=95601100-f72e-f111-88b4-7ced8dcd2411)
+[![Sunil Pashikanti - Top 10 Leaderboard](/images/March2026LeaderboardRanking.jpg)](https://community.powerplatform.com/blogs/post/?postid=95601100-f72e-f111-88b4-7ced8dcd2411)
 
 Being ranked as the **#5 contributor globally** in March 2026 is a testament to my commitment to helping the Power Platform community grow and succeed.
 
