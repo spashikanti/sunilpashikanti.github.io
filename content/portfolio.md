@@ -17,7 +17,7 @@ This portfolio highlights my **verified community contributions**, **open-source
 # 2. 🚀 Contribution Summary (At a Glance)
 I am an active contributor and **Moderator** in the Microsoft Power Platform Community, focusing on providing high-quality, verified solutions.
 
-![Sunil Pashikanti Community Stats](https://sunilpashikanti.com/images/SunilPashikantiCommunityStats.jpg)
+[![Sunil Pashikanti Community Stats](https://sunilpashikanti.com/images/SunilPashikantiCommunityStats.jpg)](https://community.powerplatform.com/profile/?userid=8077d18b-7b47-ee11-be6d-6045bdebe084)
 - **65+** Verified Accepted Community Solutions  
 - **1,300+** Community Reputation Points*
 - **3x Consecutive Microsoft Power Platform Super User** (2024 Season 1 & 2, 2025 Season 1)
@@ -79,7 +79,7 @@ Participated in the global AI innovation event at Power Platform Conference (PPC
 ## 4.3 🏆 Top 10 Community Leader (March 2026)
 In March 2026, I was officially recognized by Microsoft as one of the **Top 10 Global Leaders** in the Power Platform Community. 
 
-![March 2026 Leaderboard Ranking](/images/March2026LeaderboardRanking.jpg)
+[![March 2026 Leaderboard Ranking](/images/March2026LeaderboardRanking.jpg)](https://community.powerplatform.com/blogs/post/?postid=95601100-f72e-f111-88b4-7ced8dcd2411)
 
 *   **Global Rank:** #5 
 *   **Impact:** Recognized for high-volume, high-quality technical support and community engagement.
