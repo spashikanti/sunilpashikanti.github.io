@@ -1,7 +1,7 @@
 ---
 title: "🌟 Principal Solutions Architect | Sunil Kumar Pashikanti"
 layout: "page"
-url: "/mvp-portfolio"
+url: "/portfolio"
 summary: "Principal Architect & Microsoft Power Platform Super User: Open-source leadership, enterprise governance, and global community impact."
 ---
 
@@ -15,11 +15,13 @@ This portfolio highlights my **verified community contributions**, **open-source
 ---
 
 # 2. 🚀 Contribution Summary (At a Glance)
+I am an active contributor and **Moderator** in the Microsoft Power Platform Community, focusing on providing high-quality, verified solutions.
 
-- **50+** Verified Accepted Community Solutions  
-- **1,000+** Community Reputation Points  
-- **100+** Kudos from Makers Worldwide  
-- **Microsoft Power Platform Super User** (Multi‑Season Awardee)  
+[![Sunil Pashikanti Community Stats](https://sunilpashikanti.com/images/SunilPashikantiCommunityStats.jpg)](https://community.powerplatform.com/profile/?userid=8077d18b-7b47-ee11-be6d-6045bdebe084)
+- **65+** Verified Accepted Community Solutions  
+- **1,300+** Community Reputation Points*
+- **3x Consecutive Microsoft Power Platform Super User** (2024 Season 1 & 2, 2025 Season 1)
+- **375+** Technical Contributions
 - **3** Open-source developer tools & frameworks  
 - **18+ Years** Experience in Enterprise Architecture & Software Engineering  
 
@@ -74,6 +76,14 @@ Participated in the global AI innovation event at Power Platform Conference (PPC
   - [Agent Hack participant](https://www.credly.com/badges/ace83ef9-85cf-4c7d-a649-377aed17df0f/public_url)
   - [Guinness World Record hack attempt](https://www.credly.com/badges/1fbaf740-503a-4b04-924a-8f9d7c9937ee/public_url)
 
+## 4.3 🏆 Top 10 Community Leader (March 2026)
+In March 2026, I was officially recognized by Microsoft as one of the **Top 10 Global Leaders** in the Power Platform Community. 
+
+[![March 2026 Leaderboard Ranking](/images/March2026LeaderboardRanking.jpg)](https://community.powerplatform.com/blogs/post/?postid=95601100-f72e-f111-88b4-7ced8dcd2411)
+
+*   **Global Rank:** #5 
+*   **Impact:** Recognized for high-volume, high-quality technical support and community engagement.
+*   **Official Announcement:** [Congratulations to the March 2026 Top 10 Community Leaders!](https://community.powerplatform.com/blogs/post/?postid=95601100-f72e-f111-88b4-7ced8dcd2411)
 ---
 
 # 5. 🧩 Open-Source Leadership (PCF Components & Tools)
