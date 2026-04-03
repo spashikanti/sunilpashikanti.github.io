@@ -11,6 +11,13 @@ This page is a dedicated archive of **verbatim feedback** from the Microsoft Pow
 
 ---
 
+⭐ **Official Recognition:** Top 10 Community Leader (March 2026)
+> "We love our Power Platform Community stars! Each month we honor our top contributors—community members who are the most active, answering questions and providing solutions, writing blogs, and sharing their expertise."
+>
+> **Bret Fraser, Community Manager** | *Apr 2026* | [Read the full announcement here](https://community.powerplatform.com/blogs/post/?postid=95601100-f72e-f111-88b4-7ced8dcd2411).
+ 
+---
+
 > "Hi @Sunil Kumar Pashikanti,
    First of all, thank you very much for your response and for providing those references."
 > 
