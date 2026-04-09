@@ -1,18 +1,26 @@
-# Beyond the 91MB Payload: Architectural Image Optimization in Power Apps
-
-As a Solutions Architect, I often see Canvas Apps struggle under the weight of high-resolution media. In a recent project, we encountered a significant performance bottleneck: a "91MB Payload" issue where standard image controls were forcing browsers to download massive JPEG/PNG files, leading to memory crashes and sluggish gallery scrolling.
-
-In this post, I’ll walk through why I built **PowerImage Ultra-Light**, a PCF component designed to solve this using modern web standards.
-
+---
+title: "Beyond the 91MB Payload: Architectural Image Optimization in Power Apps"
+date: 2026-04-09
+description: "As a Solutions Architect, I often see Canvas Apps struggle under the weight of high-resolution media. In a recent project, we encountered a significant performance bottleneck: a '91MB Payload' issue where standard image controls were forcing browsers to download massive JPEG/PNG files, leading to memory crashes and sluggish gallery scrolling."
+tags: ["Power Platform", "PCF", "Web Performance", "Software Architecture", "UX"]
+categories: ["Architecture", "Performance"]
+author: "Sunil Kumar Pashikanti"
+showToc: true
+TocOpen: false
+draft: false
 ---
 
-## The Problem: The Legacy Image Bottleneck
-Standard Power Apps Image controls are limited by the browser's default behavior. When you point to a URL, the browser downloads that specific asset regardless of whether a more efficient version exists or if the image is even on-screen.
+## The "91MB Payload" Problem: A Legacy Bottleneck
 
-### The Impact:
-* **High Memory Footprint:** Large JPEGs stay in memory, causing "Aw, Snap!" errors on mobile devices.
-* **Network Congestion:** Simultaneous downloads of uncompressed images block the app's data calls.
-* **Poor UX:** "Jittery" scrolling in galleries as the UI thread waits for image rendering.
+In high-fidelity Power Apps, particularly for visual-heavy projects like **Pabba Jewellers**, image quality is non-negotiable. However, we recently hit a critical performance wall: a "91MB Payload" issue that was causing "Aw, Snap!" memory crashes on mobile devices and jittery gallery scrolling.
+
+### Why Standard Controls Fail at Scale
+The root cause lies in the architectural limitation of the standard Power Apps Image control. Because it relies on a basic `<img>` tag, it triggers a "dumb" download:
+* **Zero Format Negotiation:** The browser is forced to download a massive, unoptimized JPEG even if a 70% smaller WebP version is available.
+* **Network Congestion:** Simultaneous downloads of uncompressed assets block the app’s primary data calls, leading to perceived lag.
+* **Memory Pressure:** Large, unmanaged assets stay in the browser's memory, taxing the UI thread and killing the 60FPS scrolling experience.
+
+To solve this, I developed **PowerImage Ultra-Light**. This performance-first PCF component implements modern web standards to slash payloads by up to 80% without sacrificing a single pixel of jewelry detail.
 
 ---
 
