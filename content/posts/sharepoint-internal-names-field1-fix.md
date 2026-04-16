@@ -56,6 +56,8 @@ The secret to this fix lies in the APIs powering the connection:
 ### The "Icon" Tell: Modern vs. Legacy Architecture
 A fascinating visual side-effect of using the Desktop Export method is the icon assigned to the list in **Site Contents**. 
 
+![A comparison showing the visual difference in SharePoint Site Contents between a modern list icon (flat graphic) and a legacy list icon (colorful Excel-style grid).](/images/SharePointModernLegacyListIcons.png "Modern vs. Legacy List Icons")
+
 - **Modern List Icon:** A simple, flat list graphic (e.g., your "Vehicles" list).
 - **Legacy Export Icon:** A multi-colored grid icon that mirrors the Excel logo (e.g., your "SampleRatings" list).
 
