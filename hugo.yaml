@@ -38,10 +38,10 @@ params:
     
   assets:
     disableHLJS: false
-    favicon: "/images/SunilKumarPashikantiProfilePic.png"
-    favicon16x16: "/images/SunilKumarPashikantiProfilePic.png" # Optional
-    favicon32x32: "/images/SunilKumarPashikantiProfilePic.png" # Optional
-    apple_touch_icon: "/images/SunilKumarPashikantiProfilePic.png" # Optional
+    favicon: "/images/Sunil_FavIcon_Transparent.png"
+    favicon16x16: "/images/Sunil_FavIcon_Transparent.png" # Optional
+    favicon32x32: "/images/Sunil_FavIcon_Transparent.png" # Optional
+    apple_touch_icon: "/images/Sunil_FavIcon_2_Transparent.png" # Optional
 
 menu:
   main:
