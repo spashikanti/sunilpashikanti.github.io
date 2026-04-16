@@ -58,6 +58,8 @@ A fascinating visual side-effect of using the Desktop Export method is the icon 
 
 ![A comparison showing the visual difference in SharePoint Site Contents between a modern list icon (flat graphic) and a legacy list icon (colorful Excel-style grid).](/images/SharePointModernLegacyListIcons.png "Modern vs. Legacy List Icons")
 
+{{< figure src="/images/SharePointModernLegacyListIcons.png" alt="A comparison showing the visual difference in SharePoint Site Contents between a modern list icon (flat graphic) and a legacy list icon (colorful Excel-style grid)." caption="Figure 1: Visual distinction in Site Contents between Modern (Vehicles) and Legacy (SampleRatings) provisioning." >}}
+
 - **Modern List Icon:** A simple, flat list graphic (e.g., your "Vehicles" list).
 - **Legacy Export Icon:** A multi-colored grid icon that mirrors the Excel logo (e.g., your "SampleRatings" list).
 
