@@ -1,24 +1,37 @@
 ---
-title: "💖 Wall of Love: Community Impact & Success Stories"
+title: "Community Feedback & Recognition"
 layout: "page"
-url: "/wall-of-love"
-summary: "A collection of unmodified feedback and testimonials from the global Microsoft Power Platform community."
+url: "/community-feedback"
+summary: "Selected, verbatim community feedback and formal recognition related to Power Platform knowledge sharing and technical support."
 ---
 
-# 💬 Wall of Love
+# 💬 Community Feedback & Recognition
 
-This page is a dedicated archive of **verbatim feedback** from the Microsoft Power Platform community. These testimonials represent real-world technical challenges resolved, organizational time saved, and the collaborative spirit of the Microsoft ecosystem.
+This page contains a **small selection of unmodified feedback and formal recognition** related to my participation in the Microsoft Power Platform community.  
+It is provided as **supporting evidence** of community trust and engagement, complementing my open‑source contributions and ongoing technical support efforts.
 
 ---
 
-# ⭐ Featured Recognition: Top 10 Global Leader
+## ⭐ Community Recognition (Time‑Bound)
 
-> "We love our Power Platform Community stars! Each month we honor our top contributors—community members who are the most active, answering questions and providing solutions... and sharing their expertise." 
+> "We love our Power Platform Community stars! Each month we honor our top contributors—community members who are the most active, answering questions and providing solutions, and sharing their expertise."  
 > — **Bret Fraser, Community Manager, Microsoft**
 
-[![Sunil Pashikanti - Top 10 Leaderboard](/images/March2026LeaderboardRanking.jpg)](https://community.powerplatform.com/blogs/post/?postid=95601100-f72e-f111-88b4-7ced8dcd2411)
+[![Power Platform Community – March 2026 Top Contributors](/images/March2026LeaderboardRanking.jpg)](https://community.powerplatform.com/blogs/post/?postid=95601100-f72e-f111-88b4-7ced8dcd2411)
 
-Being ranked as the **#5 contributor globally** in March 2026 is a testament to my commitment to helping the Power Platform community grow and succeed.
+In **March 2026**, I was recognized as one of the **Top 10 contributors globally** in the Microsoft Power Platform Community, based on solution quality, consistency, and engagement during that month.
+
+---
+
+## 🛠️ Context
+
+Feedback and recognition shown here relate to:
+- Advanced Power Automate troubleshooting
+- Copilot Studio integration scenarios
+- Power Apps architecture and performance discussions
+- Community guidance on supported, enterprise‑ready patterns
+
+This page is **not a comprehensive list**, nor a measure of popularity, but rather a snapshot illustrating community‑level impact over time.
 
 ---
 

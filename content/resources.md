@@ -6,13 +6,25 @@ summary: "Curated architectural assets, governance frameworks, PCF components, a
 ---
 
 A curated collection of my most impactful resources for Power Platform architects, fusion teams, and enterprise solution designers.  
-These assets are widely used by community members to implement scalable architecture, establish governance standards, and extend Power Apps with pro-code components.
+These assets are used by community members and practitioners to implement scalable architecture, establish governance standards, and extend Power Apps with pro‑code components.
+
+ℹ️ These resources are referenced in my [Portfolio – Open‑Source Leadership & Governance](https://sunilpashikanti.com/portfolio#55-power-platform-governance--practitioner-aids-2026) section as part of my community and architectural contributions.
 
 ---
 
 # 🧭 Governance Frameworks & Enterprise Architecture
+<span style="font-size: 0.85em; opacity: 0.75;">
+🔗 Referenced in <a href="/portfolio#55-power-platform-governance--practitioner-aids-2026">Portfolio</a>
+</span>
 
+
+_Primary audience: Power Platform Architects, Administrators, COE Leads, and Advanced Makers._
 ## 🏆 Enterprise Power Platform Governance Checklist (2026 Edition)
+<span style="font-size: 0.85em; opacity: 0.75;">
+🔗 Referenced in <a href="/portfolio#55-power-platform-governance--practitioner-aids-2026">Portfolio</a>
+</span>
+
+
 A comprehensive **25‑point governance model** covering:
 - Environment strategy  
 - DLP policies  
@@ -57,10 +69,23 @@ A high-resolution visual reference card for your second monitor. Quickly compare
 ---
 
 # 🧩 PCF Components & UX Innovation (Open Source)
+<span style="font-size: 0.85em; opacity: 0.75;">
+🔗 Referenced in <a href="/portfolio#55-power-platform-governance--practitioner-aids-2026">Portfolio</a>
+</span>
+
 
 I actively publish reusable components to extend Power Apps beyond out‑of‑box capabilities.  
 These controls are also listed on the **[PCF Gallery](https://pcf.gallery/authors/sunil_kumar_pashikanti)**, confirming my contribution as an open‑source PCF author.
 
+### ⭐ PowerImage Ultra-Light (PCF)
+An ultra‑lightweight image rendering component focused on eliminating image payload inflation and improving Canvas app performance.
+
+**Resources:**  
+- **PCF Gallery Listing:** https://pcf.gallery/powerimage-ultra-light  
+- **Source Code:** https://github.com/spashikanti/SunilP-PowerApps-Image  
+- **Architectural Deep Dive:**  
+  https://sunilpashikanti.com/posts/beyond-the-91mb-payload-architectural-image-optimization-in-power-apps/
+  
 ### ⭐ PowerShimmer Ultra-Light (PCF)
 A **high-performance skeleton loading component** designed to improve UX and perceived performance in Canvas & Model‑Driven Apps.  
 Documentation and details published in [my technical blog](https://sunilpashikanti.blogspot.com/2026/03/powershimmer-pcf-powerapps-ux-component.html).
@@ -72,8 +97,7 @@ Documentation and details published in [my technical blog](https://sunilpashikan
 ### 🛠️ Community Tools
 Reusable developer utilities published for automation and data engineering scenarios, including:  
 - **[Excel Merge Utility](https://github.com/spashikanti/SunilP-ExcelMergerToMaster)** (multi-source dataset consolidation)  
-- Power Apps helper scripts  
-- Logic Apps / Power Automate developer helpers  
+- Power Automate and Logic Apps developer helper workflows  
 
 ➡️ **View my open-source repositories:** https://github.com/spashikanti
 
@@ -92,7 +116,7 @@ Short-form and long-form videos covering:
 ---
 
 # 🧭 Coming Soon (2026 Roadmap)
-I maintain an evolving roadmap of learning resources designed for the community:
+I maintain an evolving roadmap of learning resources designed for the community: _All upcoming resources are planned with a focus on performance, governance, and long‑term maintainability._
 
 - New PCF controls (Performance-focused, UX-focused)
 - Advanced Dataverse Patterns (multi-region, multi-layer)
