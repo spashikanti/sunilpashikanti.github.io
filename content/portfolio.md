@@ -173,6 +173,8 @@ These resources are based on real‑world implementation experience and are inte
   A deeper practitioner playbook explaining selector strategies, patterns, and pitfalls for robust desktop automation workflows.  
   https://github.com/spashikanti/sunilpashikanti.github.io/releases/download/v1.0.0/SunilP_PAD_Selector_Playbook_2026.pdf  
 
+👉 **Related downloads and practitioner aids:**
+See the [Resources page](/resources) for governance checklists, PAD selector playbooks, and reference diagrams.
 
 ---
 
