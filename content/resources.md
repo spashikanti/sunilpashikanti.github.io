@@ -13,8 +13,18 @@ These assets are used by community members and practitioners to implement scalab
 ---
 
 # 🧭 Governance Frameworks & Enterprise Architecture
+<span style="font-size: 0.85em; opacity: 0.75;">
+🔗 Referenced in <a href="/portfolio#55-power-platform-governance--practitioner-aids-2026">Portfolio</a>
+</span>
+
+
 _Primary audience: Power Platform Architects, Administrators, COE Leads, and Advanced Makers._
 ## 🏆 Enterprise Power Platform Governance Checklist (2026 Edition)
+<span style="font-size: 0.85em; opacity: 0.75;">
+🔗 Referenced in <a href="/portfolio#55-power-platform-governance--practitioner-aids-2026">Portfolio</a>
+</span>
+
+
 A comprehensive **25‑point governance model** covering:
 - Environment strategy  
 - DLP policies  
@@ -59,6 +69,10 @@ A high-resolution visual reference card for your second monitor. Quickly compare
 ---
 
 # 🧩 PCF Components & UX Innovation (Open Source)
+<span style="font-size: 0.85em; opacity: 0.75;">
+🔗 Referenced in <a href="/portfolio#55-power-platform-governance--practitioner-aids-2026">Portfolio</a>
+</span>
+
 
 I actively publish reusable components to extend Power Apps beyond out‑of‑box capabilities.  
 These controls are also listed on the **[PCF Gallery](https://pcf.gallery/authors/sunil_kumar_pashikanti)**, confirming my contribution as an open‑source PCF author.
