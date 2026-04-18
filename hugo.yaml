@@ -65,7 +65,7 @@ menu:
       name: Portfolio
       url: /portfolio/
       weight: 14
-    - identifier: wall-of-love
-      name: Wall of Love
-      url: /wall-of-love/
+    - identifier: community-feedback
+      name: Community Feedback
+      url: /community-feedback/
       weight: 15
