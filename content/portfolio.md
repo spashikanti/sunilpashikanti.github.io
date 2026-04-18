@@ -21,7 +21,7 @@ I am an active contributor and **Moderator** in the Microsoft Power Platform Com
 - **Microsoft Power Platform Moderator** (current role)
 - **Microsoft Power Platform Super User**  
   *(3 seasons: 2024 Season 1 & Season 2, 2025 Season 1)*
-- **74+** Verified Accepted Community Solutions  
+- **70+** Verified Accepted Community Solutions  
 - **1,666+** Community Reputation Points  
 - **423+** Technical Contributions across Power Apps, Power Automate, and Copilot Studio  
 - **4** Open‑source developer tools & PCF components  
@@ -35,7 +35,40 @@ I am an active contributor and **Moderator** in the Microsoft Power Platform Com
 
 ---
 
-# 3. 💬 Community Impact & Feedback
+## 3. 📈 Impact Snapshot
+
+A concise view of the **reach and influence** of my Power Platform contributions over time:
+
+- **70+** verified accepted solutions delivered in the Microsoft Power Platform Community
+- Contributions viewed by **thousands of community members** across discussion threads and solutions
+- **Open‑source PCF components and tools** with consistent GitHub clone and download activity
+- **Architectural governance and PAD resources** reused by practitioners for enterprise implementations
+- Ongoing **moderation and advanced technical guidance** supporting makers and architects globally
+
+---
+
+## 4. 🗓 Community Contributions — Last 12 Months
+
+Focused summary of recent, sustained contributions aligned with Microsoft MVP evaluation criteria:
+
+- Released **PowerImage Ultra‑Light (PCF)** and **PowerShimmer Ultra‑Light (PCF)**, enabling performance‑optimized UX patterns in Power Apps
+- Published and maintained **community automation utilities**, including **Excel Merger Utility** and **Forms‑to‑Excel Top Rank Emailer**, addressing recurring enterprise and academic workflows
+- Published **enterprise governance frameworks and Power Automate Desktop practitioner aids**, including checklists, playbooks, and reference diagrams
+- Actively served as a **Moderator** in the Microsoft Power Platform Community, providing trusted technical guidance
+- Recognized as a **Top 10 Community Contributor (March 2026)** for solution quality and consistency
+- Continued hands‑on mentoring through technical blogs, videos, and direct community engagement
+
+---
+
+### 👥 Community Leadership
+
+- Active **Moderator** in the Microsoft Power Platform Community
+- Trusted contributor for advanced troubleshooting and architecture
+- Mentored dozens of practitioners through structured guidance and follow‑ups
+
+---
+
+# 5. 💬 Community Impact & Feedback
 
 > "Good morning @Sunil Kumar Pashikanti, your solution was absolutely stunning- what a great work you did, I really appreciate all your help- especially the detailed screenshots. It really helped me and our organization by saving a lot of time.
 >  
@@ -53,22 +86,22 @@ I am an active contributor and **Moderator** in the Microsoft Power Platform Com
 
 ---
 
-# 4. 🏆 Awards & Recognitions
+# 6. 🏆 Awards & Recognitions
 
-## 4.1 🥇 Microsoft Power Platform Super User (2024–2025)  
+## 6.1 🥇 Microsoft Power Platform Super User (2024–2025)  
 Recognized for sustained technical mentorship, high‑value solutioning, and measurable community impact.
 
 - **2025:** [Season 1](https://community.powerplatform.com/blogs/post/?postid=af73f519-48e3-ef11-a731-6045bdfeabd7)  
 - **2024:** Season 1 & [Season 2](https://community.powerplatform.com/blogs/post/?postid=2eeb8a04-6d8a-ef11-ac21-6045bdd7e1ae)
 
-## 4.2 🌍 Guinness World Record Attempt – Agent Hack (2025)  
+## 6.2 🌍 Guinness World Record Attempt – Agent Hack (2025)  
 Participated in the global AI innovation event at Power Platform Conference (PPCC), Las Vegas.
 
 - **Credential & Badge:**
   - [Agent Hack participant](https://www.credly.com/badges/ace83ef9-85cf-4c7d-a649-377aed17df0f/public_url)
   - [Guinness World Record hack attempt](https://www.credly.com/badges/1fbaf740-503a-4b04-924a-8f9d7c9937ee/public_url)
 
-## 4.3 🏆 Top 10 Community Contributors (March 2026)
+## 6.3 🏆 Top 10 Community Contributors (March 2026)
 In March 2026, I was officially recognized by Microsoft as one of the **Top 10 Community Contributors** in the Power Platform Community.
 
 [![March 2026 Leaderboard Ranking](/images/March2026LeaderboardRanking.jpg)](https://community.powerplatform.com/blogs/post/?postid=95601100-f72e-f111-88b4-7ced8dcd2411)
@@ -78,9 +111,9 @@ In March 2026, I was officially recognized by Microsoft as one of the **Top 10 C
 *   **Official Announcement:** [Congratulations to the March 2026 Top 10 Community Leaders!](https://community.powerplatform.com/blogs/post/?postid=95601100-f72e-f111-88b4-7ced8dcd2411)
 ---
 
-# 5. 🧩 Open-Source Leadership (PCF Components & Tools)
+# 7. 🧩 Open-Source Leadership (PCF Components & Tools)
 
-## 5.1 ⭐ PowerImage Ultra-Light (PCF Component)  
+## 7.1 ⭐ PowerImage Ultra-Light (PCF Component)  
 An ultra‑lightweight, performance‑optimized image rendering PCF component designed to address large image payload inflation and rendering inefficiencies in Power Apps Canvas apps.
 
 **Highlights:**  
@@ -97,7 +130,7 @@ An ultra‑lightweight, performance‑optimized image rendering PCF component de
 
 ---
 
-## 5.2 ⭐ PowerShimmer Ultra-Light (PCF Component)  
+## 7.2 ⭐ PowerShimmer Ultra-Light (PCF Component)  
 A high‑performance skeleton loader PCF component designed to improve perceived loading performance and user experience in Power Apps.
 
 **Highlights:**  
@@ -114,7 +147,7 @@ A high‑performance skeleton loader PCF component designed to improve perceived
 
 ---
 
-## 5.3 🛠 Excel Merger Utility  
+## 7.3 🛠 Excel Merger Utility  
 An automation utility for consolidating multiple Excel files into a single master dataset, reducing manual reconciliation and error‑prone workflows in enterprise environments.
 
 **Highlights:**  
@@ -130,7 +163,7 @@ An automation utility for consolidating multiple Excel files into a single maste
 
 ---
 
-## 5.4 🛠 Forms‑to‑Excel Top Rank Emailer  
+## 7.4 🛠 Forms‑to‑Excel Top Rank Emailer  
 A Power Automate solution that extracts Microsoft Forms responses into Excel, identifies top‑ranked submissions, and triggers targeted email notifications for downstream decision workflows.
 
 **Highlights:**  
@@ -145,7 +178,7 @@ A Power Automate solution that extracts Microsoft Forms responses into Excel, id
 
 ---
 
-## 5.5 🏛 Power Platform Governance & Practitioner Aids (2026)
+## 7.5 🏛 Power Platform Governance & Practitioner Aids (2026)
 
 A curated set of **practical governance artifacts and practitioner aids** designed to support secure, scalable, and maintainable Power Platform adoption in enterprise environments.  
 These resources are based on real‑world implementation experience and are intended for architects, administrators, and advanced makers.
@@ -178,9 +211,9 @@ See the [Resources page](/resources) for governance checklists, PAD selector pla
 
 ---
 
-# 6. 🎥 Content Creation & Technical Education
+# 8. 🎥 Content Creation & Technical Education
 
-## 6.1 🎬 Architect’s Corner — Technical Education Series  
+## 8.1 🎬 Architect’s Corner — Technical Education Series  
 **YouTube Channel:** https://www.youtube.com/@SunilPashikanti  
 
 Bridging **professional C#/.NET architecture** with **Power Platform fusion development**.
@@ -194,11 +227,11 @@ Bridging **professional C#/.NET architecture** with **Power Platform fusion deve
 - Pro‑Code extensibility deep dives (PCF, Fluent UI, React controls)  
 - Azure + Dataverse architecture patterns  
 - Enterprise governance configuration walkthroughs  
-- Short-format educational videosfocused on practical, real‑world scenarios
+- Short-format educational videos focused on practical, real‑world scenarios
 
 ---
 
-# 7. 🎓 Certifications & Credentials
+# 9. 🎓 Certifications & Credentials
 
 - **MCT (Alumni):** [2021](https://www.credly.com/badges/2d7ef605-9c7a-44a8-a8f6-a73e2e2c3a2c/public_url)–[2023](https://www.credly.com/badges/041d0130-a3f9-4137-8889-f44ee2880bd3/public_url)  
 - **Azure:** [AZ‑104 (Administrator)](https://learn.microsoft.com/api/credentials/share/en-us/SunilKumarPashikanti/48FC29069FC012FF?sharingId=C52D54C9515E20EF), [AZ‑204 (Developer)](https://learn.microsoft.com/api/credentials/share/en-us/SunilKumarPashikanti/1C77FFDF335C805?sharingId=C52D54C9515E20EF)  
@@ -208,7 +241,7 @@ Bridging **professional C#/.NET architecture** with **Power Platform fusion deve
 
 ---
   
-# 8. 💡 What Makes My Contributions Unique
+# 10. 💡 What Makes My Contributions Unique
 
 - **Pattern‑First Architecture:** Bringing enterprise‑grade web performance patterns into PCF and Power Apps.  
 - **Governance at Scale:** Real‑world experience building secure, scalable, multi‑department Power Platform rollouts.  
@@ -218,7 +251,7 @@ Bridging **professional C#/.NET architecture** with **Power Platform fusion deve
 
 ---
 
-# 9. 📅 Contribution Timeline (2022–2026)
+# 11. 📅 Contribution Timeline (2022–2026)
 
 | Year | Key Contributions |
 |------|-------------------|
@@ -230,7 +263,7 @@ Bridging **professional C#/.NET architecture** with **Power Platform fusion deve
 
 ---
 
-# 10. 🔮 2026–2027 Roadmap (Planned Contributions)
+# 12. 🔮 2026–2027 Roadmap (Planned Contributions)
 
 - Continue releasing additional PCF components focused on performance and usability.
 - Continue expanding Architect’s Corner with regular educational videos focused on PCF, governance, and enterprise architecture.
@@ -240,7 +273,7 @@ Bridging **professional C#/.NET architecture** with **Power Platform fusion deve
 
 ---
 
-# 11. 📬 Connect & Collaborate
+# 13. 📬 Connect & Collaborate
 
 **Website:** https://sunilpashikanti.com  
 **Blog:** https://sunilpashikanti.blogspot.com  
