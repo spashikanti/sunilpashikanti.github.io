@@ -1,7 +1,6 @@
 ---
 title: "The Protocol Paradox: Why GitHub MCP Fails in Copilot Studio"
 date: 2026-04-20T21:00:00-05:00
-draft: false
 categories: ["Architecture", "Power Platform", "AI"]
 tags: ["MCP", "Copilot Studio", "GitHub", "API Design"]
 author: "Sunil Kumar Pashikanti"
