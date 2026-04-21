@@ -180,6 +180,3 @@ Governance is strongest when compliance is an outcome—not a bolt‑on.
 How is your organization handling the shift to Managed Environments in 2026? I would love to hear your thoughts in the [Power Platform Community](https://community.powerplatform.com/profile/?userid=8077d18b-7b47-ee11-be6d-6045bdebe084) or on [LinkedIn](https://www.linkedin.com/in/sunil-kumar-pashikanti/).
 
 {{< author-bio >}}
-**Next Steps**  
-I am currently developing **PowerMask Ultra‑Light**, a zero‑dependency PCF control focused on secure, high‑performance presentation‑layer masking for financial fields—designed to *complement*, not replace, Dataverse security.  
-GitHub release coming soon.
