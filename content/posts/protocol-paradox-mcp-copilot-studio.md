@@ -5,9 +5,23 @@ draft: false
 categories: ["Architecture", "Power Platform", "AI"]
 tags: ["MCP", "Copilot Studio", "GitHub", "API Design"]
 author: "Sunil Kumar Pashikanti"
+description: "An architectural deep dive into why identical naming doesn’t guarantee interoperability between Copilot Studio and GitHub MCP in the era of Streamable HTTP."
 showToc: true
 TocOpen: false
-description: "An architectural deep dive into why identical naming doesn’t guarantee interoperability between Copilot Studio and GitHub MCP in the era of Streamable HTTP."
+draft: false
+hidemeta: false
+comments: false
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: false
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+
 ---
 
 In the rapidly evolving landscape of the **Model Context Protocol (MCP)**, it is easy to assume that if two platforms claim support for the same protocol, they should *just work* together. In practice, many developers are discovering otherwise when attempting to connect **Microsoft Copilot Studio** directly to **GitHub’s hosted MCP endpoint**.
@@ -24,6 +38,10 @@ This is not a configuration mistake. It is a **protocol paradox** rooted in the 
 ## The Architectural Mismatch: Language vs. Transport
 
 The root cause lies in the **transport layer**. While both systems speak *MCP* at the protocol level, the 2026 specification allows for different transport bindings. Copilot Studio and GitHub have optimized for different compliant variants:
+
+
+{{< figure src="/images/TheTransportMismatchParadox.png" alt="A Transport Mismtach Paradox." >}}
+
 
 * **Copilot Studio** has moved toward the new **Stateless Streamable HTTP** standard.
 * **GitHub Hosted MCP** remains on the **Stateful SSE (Server-Sent Events)** transport optimized for IDE persistence.
@@ -67,6 +85,8 @@ Because we cannot change the internal transport logic of these SaaS platforms, w
 Introduce a mediator—such as an **Azure Function**—that acts as a protocol translator. This bridge handles the stateful handshake with GitHub so Copilot Studio doesn't have to.
 
 
+{{< figure src="/images/TheTransportMismatchParadoxSolution.png" alt="A Transport Mismtach Paradox - Bridge Approach Solution" >}}
+
 
 1.  **Ingress:** Receives the stateless `POST` from Copilot Studio.
 2.  **Translation:** Establishes the persistent SSE connection with GitHub's MCP.
@@ -87,3 +107,13 @@ This scenario highlights an important architectural lesson: **Shared acronyms do
 * **Standardize on the Adapter Pattern** early to avoid "debugging the un-debuggable."
 
 Understanding *why* the failure occurs allows us to move past futile header troubleshooting and toward durable, well-aligned architectures.
+
+---
+
+*Found this helpful? I’d appreciate it if you could share this with your team or mark this as a helpful resource in the Power Platform community!*
+
+---
+### Let's Connect
+How is your organization handling the shift to Managed Environments in 2026? I would love to hear your thoughts in the [Power Platform Community](https://community.powerplatform.com/profile/?userid=8077d18b-7b47-ee11-be6d-6045bdebe084) or on [LinkedIn](https://www.linkedin.com/in/sunil-kumar-pashikanti/).
+
+{{< author-bio >}}
