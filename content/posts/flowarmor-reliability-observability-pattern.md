@@ -157,14 +157,6 @@ to:
 
 ---
 
-## 🔗 Repository
-
-Explore the implementation:
-
-👉 Source Code: [flowarmor-core](https://github.com/spashikanti/flowarmor-core)
-
----
-
 ## 🏁 Conclusion
 
 Reliability is not just about handling errors — it is about making systems observable and predictable.
@@ -174,4 +166,22 @@ FlowArmor provides a simple, scalable pattern to bring consistency, visibility, 
 It represents a shift from building flows that merely run to building flows that can be observed, trusted, and debugged at scale.
 
 In modern automation systems, observability is not optional, it is a fundamental design requirement.
+
+---
+
+## 🔗 Get the Component
+You can find the source code, documentation, and solution packages on my GitHub:
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-FlowArmor%20Core-blue?style=for-the-badge&logo=github)](https://github.com/spashikanti/flowarmor-core)
+
+**Community Contribution:** If you are an architect or developer facing similar payload issues, I encourage you to try this component and share your feedback. Let’s build faster, more resilient Power Platform solutions together.
+
+---
+*Found this helpful? I’d appreciate it if you could share this with your team or mark this as a helpful resource in the Power Platform community!*
+
+---
+### Let's Connect
+How is your organization handling the shift to Managed Environments in 2026? I would love to hear your thoughts in the [Power Platform Community](https://community.powerplatform.com/profile/?userid=8077d18b-7b47-ee11-be6d-6045bdebe084) or on [LinkedIn](https://www.linkedin.com/in/sunil-kumar-pashikanti/).
+
+{{< author-bio >}}
 
