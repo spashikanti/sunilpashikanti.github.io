@@ -55,6 +55,9 @@ FlowArmor enforces a structured execution model:
 ```
 TRY → CATCH → FINALLY → Outcome Decision
 ```
+
+![Power Automate Reliability Framework](/images/Power-Automate-Reliability-Framework.png)
+
 ### Execution Behavior
 
 - TRY executes business logic  
