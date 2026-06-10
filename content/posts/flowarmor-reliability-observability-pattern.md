@@ -174,7 +174,7 @@ You can find the source code, documentation, and solution packages on my GitHub:
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-FlowArmor%20Core-blue?style=for-the-badge&logo=github)](https://github.com/spashikanti/flowarmor-core)
 
-**Community Contribution:** If you are an architect or developer facing similar payload issues, I encourage you to try this component and share your feedback. Let’s build faster, more resilient Power Platform solutions together.
+**Community Contribution:** If you are a Power Platform developer or architect dealing with hidden failures, inconsistent error handling, or limited observability, I encourage you to try FlowArmor and share your feedback. Let’s build more reliable, traceable, and production-ready automation solutions together.
 
 ---
 *Found this helpful? I’d appreciate it if you could share this with your team or mark this as a helpful resource in the Power Platform community!*
