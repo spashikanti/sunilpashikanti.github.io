@@ -157,6 +157,12 @@ to:
 
 ---
 
+For a practical walkthrough and implementation overview, read the technical guide:
+
+[Flowarmor-Power Automate Reliability Framework](https://sunilpashikanti.blogspot.com/2026/06/flowarmor-power-automate-reliability-framework.html)
+
+---
+
 ## 🏁 Conclusion
 
 Reliability is not just about handling errors — it is about making systems observable and predictable.
