@@ -10,26 +10,30 @@ summary: "Principal Architect | Microsoft Power Platform Moderator | Open-source
 **Sunil Kumar Pashikanti**  
 *Enterprise Architect specializing in Power Platform Fusion Development, Pro‑Code Extensibility (PCF/C#), Azure Integration, and Scalable Governance.*
 
-This portfolio highlights my **verified community contributions**, **open-source innovations**, and **enterprise architectural leadership**, supporting my nomination for the **Microsoft MVP Award**.
+This portfolio summarizes my **verified community contributions**, **open-source innovations**, and **enterprise architectural leadership**, supporting my nomination for the **Microsoft MVP Award**.
 
 ---
 
 # 2. 🚀 Contribution Summary (At a Glance)
 I am an active contributor and **Moderator** in the Microsoft Power Platform Community, focusing on providing high-quality, verified solutions.
 
-[![Sunil Pashikanti Community Stats](https://sunilpashikanti.com/images/SunilPashikantiCommunityStats.jpg)](https://community.powerplatform.com/profile/?userid=8077d18b-7b47-ee11-be6d-6045bdebe084)
+[![Sunil Pashikanti Community Stats](https://sunilpashikanti.com/images/PPCC_Profile_June2026.png)](https://community.powerplatform.com/profile/?userid=8077d18b-7b47-ee11-be6d-6045bdebe084)
 - **Microsoft Power Platform Moderator** (current role)
 - **Microsoft Power Platform Super User**  
   *(3 seasons: 2024 Season 1 & Season 2, 2025 Season 1)*
-- **70+** Verified Accepted Community Solutions  
-- **1,666+** Community Reputation Points  
-- **423+** Technical Contributions across Power Apps, Power Automate, and Copilot Studio  
-- **4** Open‑source developer tools & PCF components  
+- **75+** Verified Accepted Community Solutions  
+- **2,097+** Community Reputation Points  
+- **516+** Technical Contributions across Power Apps, Power Automate, and Copilot Studio  
+- **7+** Open‑source solutions, frameworks, and PCF components  
+  - FlowArmor – Reliability Framework  
+  - Sentinel Copilot Agent (AI Governance System)  
   - PowerShimmer Ultra‑Light (PCF)  
-  - **PowerImage – Ultra Light (PCF)**  
+  - PowerImage – Ultra-Light (PCF)
   - Excel Merger Utility  
-  - Forms‑to‑Excel Top Rank Emailer  
-- **18+ Years** of enterprise‑scale software engineering and architecture experience   
+  - Forms‑to‑Excel Top Rank Emailer
+  - Power Automate Forward Email Delay Pattern
+
+- **19+ Years** of enterprise‑scale software engineering and architecture experience   
 
 👉 **Verified Community Profile:**  [Microsoft Power Platform Community Profile](https://community.powerplatform.com/profile/?userid=8077d18b-7b47-ee11-be6d-6045bdebe084)
 
@@ -55,7 +59,7 @@ Focused summary of recent, sustained contributions aligned with Microsoft MVP ev
 - Published and maintained **community automation utilities**, including **Excel Merger Utility** and **Forms‑to‑Excel Top Rank Emailer**, addressing recurring enterprise and academic workflows
 - Published **enterprise governance frameworks and Power Automate Desktop practitioner aids**, including checklists, playbooks, and reference diagrams
 - Actively served as a **Moderator** in the Microsoft Power Platform Community, providing trusted technical guidance
-- Recognized as a **Top 10 Community Contributor (March 2026)** for solution quality and consistency
+- Recognized as a **Top 10 Community Contributor (March/April 2026)** for solution quality and consistency
 - Continued hands‑on mentoring through technical blogs, videos, and direct community engagement
 
 ---
@@ -101,14 +105,23 @@ Participated in the global AI innovation event at Power Platform Conference (PPC
   - [Agent Hack participant](https://www.credly.com/badges/ace83ef9-85cf-4c7d-a649-377aed17df0f/public_url)
   - [Guinness World Record hack attempt](https://www.credly.com/badges/1fbaf740-503a-4b04-924a-8f9d7c9937ee/public_url)
 
-## 6.3 🏆 Top 10 Community Contributors (March 2026)
-In March 2026, I was officially recognized by Microsoft as one of the **Top 10 Community Contributors** in the Power Platform Community.
+## 6.3 🏆 Top 10 Community Contributors 
+Recognized multiple times in the Microsoft Power Platform Community for consistent, high-quality contributions by Microsoft as one of the **Top 10 Community Contributors** in the Power Platform Community.
 
 [![March 2026 Leaderboard Ranking](/images/March2026LeaderboardRanking.jpg)](https://community.powerplatform.com/blogs/post/?postid=95601100-f72e-f111-88b4-7ced8dcd2411)
 
+[April 2026 Leaderboard Ranking](https://community.powerplatform.com/blogs/post/?postid=ae30c677-e148-f111-bec7-7ced8dcd245e)
+
 *   **Global Rank:** #5 
-*   **Impact:** Recognized for high-volume, high-quality technical support and community engagement.
-*   **Official Announcement:** [Congratulations to the March 2026 Top 10 Community Leaders!](https://community.powerplatform.com/blogs/post/?postid=95601100-f72e-f111-88b4-7ced8dcd2411)
+*   **Impact:**
+    *   Recognition for sustained technical excellence and community engagement  
+    *   Demonstrates consistency in delivering high-value solutions
+    *   Trusted contributor within the Power Platform ecosystem
+
+*   **Official Announcement:**
+    -   [Congratulations to the March 2026 Top 10 Community Leaders!](https://community.powerplatform.com/blogs/post/?postid=95601100-f72e-f111-88b4-7ced8dcd2411)
+    -   [Congratulations to the April 2026 Top 10 Community Leaders! 🎉](https://community.powerplatform.com/blogs/post/?postid=ae30c677-e148-f111-bec7-7ced8dcd245e)
+  
 ---
 
 # 7. 🧩 Open-Source Leadership (PCF Components & Tools)
@@ -211,6 +224,70 @@ See the [Resources page](/resources) for governance checklists, PAD selector pla
 
 ---
 
+## 7.6 🚀 Enterprise Frameworks & Advanced Solutions
+
+### 7.6.1 🚀 FlowArmor – Reliability & Observability Framework
+
+FlowArmor is a reusable reliability framework for Power Automate that eliminates silent failures and standardizes error handling, telemetry, and observability patterns for enterprise workflows.
+
+Highlights:
+
+- Introduces a consistent TRY → CATCH → FINALLY execution pattern  
+- Eliminates silent failures through controlled failure propagation (`varHasFailure`)  
+- Implements structured telemetry and centralized logging  
+- Supports CorrelationId-based traceability across flow executions  
+- Designed as a lightweight, reusable framework for enterprise adoption  
+
+Impact:
+
+- Enables predictable and observable flow behavior in production environments  
+- Reduces debugging time and operational blind spots  
+- Provides a standardized reliability pattern for community reuse  
+
+Links:
+
+GitHub Repository: https://github.com/spashikanti/flowarmor-core  
+Technical Blog: https://sunilpashikanti.blogspot.com/2026/06/flowarmor-power-automate-reliability-framework.html  
+Architecture Deep Dive: https://sunilpashikanti.com/posts/flowarmor-reliability-observability-pattern/  
+YouTube Demo: https://www.youtube.com/watch?v=iIJLLhX3Yw8  
+LinkedIn Announcement: https://www.linkedin.com/feed/update/urn:li:activity:7470659614532079616/
+
+---
+
+### 7.6.2 🤖 Sentinel Copilot Agent – AI Governance System
+
+Sentinel is an AI-driven enterprise governance and monitoring solution built as part of the Microsoft Agent Academy Live Challenge Contest (June 2026).
+
+Highlights:
+
+- Built using Copilot Studio, Power Automate, Azure OpenAI, and Azure Functions  
+- Performs automated flow discovery and governance analysis  
+- Combines semantic AI (Azure OpenAI) with structural validation (AST analysis)  
+- Enables natural language querying of governance insights via Copilot  
+- Implements a layered architecture for scalable enterprise adoption  
+
+Impact:
+
+- Reduces manual governance effort  
+- Improves visibility into Power Platform environments  
+- Demonstrates real-world AI + automation integration  
+
+Links:
+
+GitHub Repository: https://github.com/spashikanti/sentinel-copilot-agent  
+Official Submission: https://github.com/microsoft/agent-academy/issues/2836
+YouTube Demo: https://www.youtube.com/watch?v=F9XDxsWQbhk
+
+---
+
+## 7.7 Additional Contributions:
+
+Power Automate Forward Email Delay Pattern  
+A reusable Power Automate pattern for controlled email routing and delay scenarios.  
+https://github.com/spashikanti/power-automate-forward-email-delay-pattern
+
+---
+
 # 8. 🎥 Content Creation & Technical Education
 
 ## 8.1 🎬 Architect’s Corner — Technical Education Series  
@@ -228,6 +305,27 @@ Bridging **professional C#/.NET architecture** with **Power Platform fusion deve
 - Azure + Dataverse architecture patterns  
 - Enterprise governance configuration walkthroughs  
 - Short-format educational videos focused on practical, real‑world scenarios
+
+---
+
+## 8.2 📰 Beyond Low Code – LinkedIn Newsletter
+
+Author of the “Beyond Low Code” LinkedIn newsletter, focused on bridging enterprise architecture principles with Power Platform and Copilot-based development.
+
+Highlights:
+
+- 2 published editions covering real-world architecture and implementation patterns  
+- 210+ subscribers  
+- Focuses on enterprise-grade design, governance, and fusion development  
+
+Impact:
+
+- Helps developers transition from low-code usage to architectural thinking  
+- Expands community education beyond platform-specific tutorials  
+
+Link:
+
+Newsletter: [https://www.linkedin.com/newsletters/beyond-low-code](https://www.linkedin.com/newsletters/beyond-low-code-7452136374884859905/)
 
 ---
 
@@ -255,7 +353,7 @@ Bridging **professional C#/.NET architecture** with **Power Platform fusion deve
 
 | Year | Key Contributions |
 |------|-------------------|
-| **2026** | Released **PowerImage Ultra‑Light (PCF)**, **PowerShimmer Ultra‑Light (PCF)**, **Excel Merger Utility**, **Forms‑to‑Excel Top Rank Emailer**; Published enterprise governance and practitioner framework resources. |
+| **2026** | Released **FlowArmor (Reliability Framework)**, **Sentinel Copilot Agent** (AI Governance system – Microsoft Agent Academy submission), **PowerImage Ultra‑Light (PCF)**, **PowerShimmer Ultra‑Light (PCF)**, **Excel Merger Utility**, **Forms‑to‑Excel Top Rank Emailer**; Published enterprise governance and practitioner framework resources. |
 | **2025** | Achieved **Super User (S1)**; Participated in PPCC Las Vegas Agent Hack. |
 | **2024** | **Super User (S1 & S2)**; Delivered 30+ accepted community solutions. |
 | **2023** | Launched technical YouTube channel; expanded into architecture mentorship. |
