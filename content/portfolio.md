@@ -51,14 +51,18 @@ A concise view of the **reach and influence** of my Power Platform contributions
 
 ---
 
-## 4. 🗓 Community Contributions — Last 12 Months
+## 4. 🗓 Community Contributions - Last 12 Months
 
 Focused summary of recent, sustained contributions aligned with Microsoft MVP evaluation criteria:
 
-- Released **PowerImage Ultra‑Light (PCF)** and **PowerShimmer Ultra‑Light (PCF)**, enabling performance‑optimized UX patterns in Power Apps
-- Published and maintained **community automation utilities**, including **Excel Merger Utility** and **Forms‑to‑Excel Top Rank Emailer**, addressing recurring enterprise and academic workflows
-- Published **enterprise governance frameworks and Power Automate Desktop practitioner aids**, including checklists, playbooks, and reference diagrams
-- Actively served as a **Moderator** in the Microsoft Power Platform Community, providing trusted technical guidance
+
+- Released **FlowArmor – Reliability & Observability Framework** for Power Automate, eliminating silent failures and standardizing telemetry-driven error handling and observability patterns  
+- Developed **Sentinel Copilot Agent** as part of the Microsoft Agent Academy Live Challenge Contest (June 2026), introducing an AI-driven governance and monitoring system for Power Platform  
+- Released **PowerImage Ultra‑Light (PCF)** and **PowerShimmer Ultra‑Light (PCF)**, enabling performance‑optimized UX patterns in Power Apps  
+- Published and maintained community automation utilities, including **Excel Merger Utility** and **Forms‑to‑Excel Top Rank Emailer**, addressing recurring enterprise and academic workflows  
+- Published enterprise governance frameworks and Power Automate Desktop practitioner aids, including checklists, playbooks, and reference diagrams  
+- Authored the **“Beyond Low Code” LinkedIn Newsletter**, bridging enterprise architecture concepts with Power Platform and Copilot-based development  
+- Actively served as a **Moderator in the Microsoft Power Platform Community**, providing trusted technical guidance and mentorship  
 - Recognized as a **Top 10 Community Contributor (March/April 2026)** for solution quality and consistency
 - Continued hands‑on mentoring through technical blogs, videos, and direct community engagement
 
@@ -66,9 +70,9 @@ Focused summary of recent, sustained contributions aligned with Microsoft MVP ev
 
 ### 👥 Community Leadership
 
-- Active **Moderator** in the Microsoft Power Platform Community
-- Trusted contributor for advanced troubleshooting and architecture
-- Mentored dozens of practitioners through structured guidance and follow‑ups
+- Active **Moderator** in the Microsoft Power Platform Community  
+- Trusted contributor for advanced troubleshooting and architecture guidance  
+- Mentored practitioners through structured guidance, detailed solutions, and follow-ups  
 
 ---
 
